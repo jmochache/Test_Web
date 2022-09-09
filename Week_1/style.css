@@ -2,12 +2,12 @@
         width: 190px;
         border-radius: 170px;
         background-color: blue;
-      }
-      img {
         float: center;
+        
       }
       p {
         font-style: italic;
+        font-size: 100%;
       }
       h5 {
         font-style: inherit;
