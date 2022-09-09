@@ -1,0 +1,27 @@
+      img {
+        width: 190px;
+        border-radius: 170px;
+        background-color: blue;
+      }
+      img {
+        float: center;
+      }
+      p {
+        font-style: italic;
+      }
+      h5 {
+        font-style: inherit;
+      }
+      body {
+        background-color: blanchedalmond;
+      }
+      div {
+        float: right;
+      }
+      h3 {
+        color: black;
+        font-family: "Times New Roman", Times, serif;
+      }
+      #Linkedin {
+        width: 20px;
+      }
